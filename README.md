@@ -1,1 +1,5 @@
-# Shop-billing-system-in-C-
+# Shop-billing-system-in-C++
+
+**Login Details**
+
+Password:000
